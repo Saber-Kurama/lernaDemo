@@ -7,7 +7,7 @@
     "test": "npm test"
   },
   "devDependencies": {
-    "lerna-module-code" : "^0.0.1"
+    "lerna-module-code": "^0.0.1"
   },
   "author": "",
   "license": "ISC"
