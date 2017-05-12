@@ -1,6 +1,6 @@
 {
-  "name": "lerna-module-code",
-  "version": "0.0.3",
+  "name": "@nirvana/lerna-module-code",
+  "version": "0.0.4",
   "description": "测试1",
   "main": "index.js",
   "scripts": {

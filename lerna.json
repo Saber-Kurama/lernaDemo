@@ -4,5 +4,5 @@
     "packages/*"
   ],
   "registry": "http://10.10.232.242:8001/",
-  "version": "0.0.3"
+  "version": "0.0.4"
 }
