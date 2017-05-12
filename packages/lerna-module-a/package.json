@@ -1,10 +1,10 @@
 {
   "name": "@nirvana/lerna-module-a",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm testdsdfsdf"
   },
   "devDependencies": {
     "lerna-module-code": "^0.0.1"
