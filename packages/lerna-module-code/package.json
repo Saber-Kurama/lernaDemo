@@ -1,7 +1,7 @@
 {
   "name": "@nirvana/lerna-module-code",
-  "version": "0.0.14",
-  "description": "测试2",
+  "version": "0.0.16",
+  "description": "测试2sdfsdf",
   "main": "index.js",
   "scripts": {
     "test": "test"
